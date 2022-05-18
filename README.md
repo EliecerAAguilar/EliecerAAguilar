@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @eliecer507.
-- 👀 I’m interested in data science.
 - 🌱 I’m currently learning Python, bash, postgreSQL.
-- 💞️ I’m looking to collaborate on Python projects for data science.
 - 📫 How to reach me by email at eliecer.aguilar1@utp.ac.pa
