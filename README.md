@@ -111,5 +111,6 @@ if __name__ == '__main__':
 </div>
 
 <div id="main-repo">
-      <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliecer507&repo=prueba_tecnica&show_owner=true&theme=onedark" />
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliecer507&repo=prueba_tecnica&show_owner=true&theme=onedark" />
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliecer507&theme=onedark"/>
 </div>
