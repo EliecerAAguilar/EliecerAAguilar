@@ -39,10 +39,10 @@
     </a>
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <a href="https://mail.google.com/mail/u/?authuser=elieaguilar91@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://mail.google.com/mail/u/?authuser=eliecer.aguilar1@utp.ac.pa" target="_blank">
-    <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <a href="mailto:eliecer.aguilar1@utp.ac.pa?subject=get%20in%20touch" target="_blank">
+      <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/eliecer-aguilar-507/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
