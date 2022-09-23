@@ -111,6 +111,12 @@ if __name__ == '__main__':
 </div>
 
 <div id="main-repo">
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliecer507&repo=prueba_tecnica&show_owner=true&theme=onedark" />
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliecer507&theme=onedark"/>
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliecer507&repo=prueba_tecnica&show_owner=true&theme=onedark&hide_border=true" />
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliecer507&repo=datos_educativos_geoReferenciados&show_owner=true&theme=onedark&hide_border=true" />
+</div>
+
+<br/>
+
+<div id="list-most-used-languages">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliecer507&theme=onedark"/>
 </div>
