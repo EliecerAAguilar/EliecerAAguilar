@@ -87,10 +87,10 @@ class EliecerAguilar():
   def __init__(self):
     self.name = "Eliecer";
     self.lastName = "Aguilar";
-    self.username = "eliecer507";
+    self.username = "EliecerAAguilar";
     self.location = "Panama City, Panama";
     self.twitter = "@elieceraguilar3";
-    self.linkeding_profile  = "eliecer-aguilar-507";
+    self.linkeding_profile  = "elieceraguilar";
   
   def __str__(self):
     return self.name
@@ -105,19 +105,19 @@ if __name__ == '__main__':
   <h1>My stadistics</h1>
   <br/>
   <p>
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=eliecer507&show_icons=true&theme=onedark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=eliecer507&theme=onedark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=EliecerAAguilar&show_icons=true&theme=onedark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=EliecerAAguilar&theme=onedark&hide_border=true" />
   </p>
 </div>
 
 <div id="main-repo">
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliecer507&repo=prueba_tecnica&show_owner=true&theme=onedark&hide_border=true" />
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=eliecer507&repo=datos_educativos_geoReferenciados&show_owner=true&theme=onedark&hide_border=true" />
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=EliecerAAguilar&repo=prueba_tecnica&show_owner=true&theme=onedark&hide_border=true" />
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=EliecerAAguilar&repo=datos_educativos_geoReferenciados&show_owner=true&theme=onedark&hide_border=true" />
 </div>
 
 <br/>
 
 <div id="list-most-used-languages">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliecer507&theme=onedark"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliecerAAguilar&theme=onedark"/>
 </div>
 
