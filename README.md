@@ -89,7 +89,6 @@ class EliecerAguilar():
     self.lastName = "Aguilar";
     self.username = "EliecerAAguilar";
     self.location = "Panama City, Panama";
-    self.twitter = "@elieceraguilar3";
     self.linkeding_profile  = "elieceraguilar";
   
   def __str__(self):
